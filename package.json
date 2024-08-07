@@ -54,6 +54,5 @@
   },
   "engines": {
     "pnpm": ">=8.0.0"
-  },
-  "packageManager": "pnpm@8.0.0"
+  }
 }
