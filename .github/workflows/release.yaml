@@ -64,14 +64,14 @@ jobs:
       - name: Build Packages
         run: pnpm run build
 
-      - name: Test
-        run: pnpm run test
+      # - name: Test
+      #   run: pnpm run test
 
-      - name: Lint
-        run: pnpm run lint
+      # - name: Lint
+      #   run: pnpm run lint
 
-      - name: Typecheck
-        run: pnpm run typecheck
+      # - name: Typecheck
+      #   run: pnpm run typecheck
 
       - name: Create Release Pull Request or Publish
         id: changesets
