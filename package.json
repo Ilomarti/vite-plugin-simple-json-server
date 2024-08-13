@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-simple-json-server",
-  "version": "0.6.2",
+  "version": "1.0.0",
   "description": "Provide a file-based mock API for Vite in dev mode",
   "keywords": [
     "vite",
@@ -55,7 +55,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "peerDependencies": {
-    "vite": "^4.0.0"
+    "vite": "^5.3.5"
   },
   "engines": {
     "node": ">=15.7.0"
