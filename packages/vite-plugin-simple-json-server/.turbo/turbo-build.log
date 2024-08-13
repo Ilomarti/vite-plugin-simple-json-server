@@ -1,0 +1,10 @@
+
+> vite-plugin-simple-json-server@0.6.2 build
+> rimraf dist && unbuild
+
+i Building vite-plugin-simple-json-server
+√ Build succeeded for vite-plugin-simple-json-server
+  dist/index.cjs (size: 45.3 kB, exports: default)
+  dist/index.mjs (size: 44.3 kB, exports: default)
+Σ Total dist size (byte size): 90.4 kB
+
